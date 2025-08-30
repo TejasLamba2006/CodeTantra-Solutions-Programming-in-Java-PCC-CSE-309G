@@ -1,10 +1,21 @@
 # Yo, Welcome to the Java Grind Repo! 🚀
 
-Hey besties! 👋 If you're here, you're probably grinding through that Programming in Java course (PCC-CSE-309G) on the CodeTantra platform and need some real vibes to level up your coding game. This repo is your ultimate cheat sheet – but like, the educational kind, no cap. We've got all the units and lessons organized super neatly, with mad explanations and code snippets to help you slay those assignments. Let's break it down so you can vibe with it ASAP.
+This repo is a student-friendly companion for the "Programming in Java" course (PCC-CSE-309G) on the CodeTantra platform. It's made to help you understand concepts, practice code, and fix the little syntax annoyances that slow you down. Everything's organized by unit and lesson so you can jump straight to what you need.
+
+<!-- TOC START -->
+<!-- TOC will be generated here -->
+<!-- TOC END -->
 
 ## What's the Tea? ☕
 
-This repo is packed with Java goodness for your course. It's structured by units and lessons, cuz who wants chaos? Each lesson has its own folder with a README.md that's basically your BFF – full of step-by-step breakdowns, key concepts, and code blocks that actually work. No more stressing over syntax errors or forgetting how to write a class. We've got you covered from basics to boss level.
+This repo has clear, bite-sized lesson notes and working code examples. Each lesson folder includes a `README.md` with:
+
+- a plain-language explanation
+- key Java concepts
+- working code snippets you can try locally
+- common error fixes and tips
+
+It's made for students who want to learn, not just copy.
 
 ## How to Use This Bad Boy? 📚
 
